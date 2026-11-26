@@ -1,0 +1,24 @@
+[
+  {
+    "id": "motion-study-01",
+    "title": "Smooth text animation",
+    "category": "Motion graphics",
+    "type": "Studio video",
+    "youtubeUrl": "https://youtu.be/1aj4ILhsViA?si=brh7ZVEfo28fAcES",
+    "duration": "",
+    "summary": "A step-by-step Alight Motion tutorial for creating smooth, expressive kinetic type.",
+    "featured": true,
+    "mark": "07"
+  },
+  {
+    "id": "motion-study-02",
+    "title": "Clear Food — Motion ad",
+    "category": "Promotional video",
+    "type": "Studio video",
+    "youtubeUrl": "https://youtu.be/prod0SqGEXc?si=IGT_k8Lv1vj4tdT8",
+    "duration": "",
+    "summary": "A motion design advertisement for Clear Food, built around a crisp and considered product story.",
+    "featured": false,
+    "mark": "08"
+  }
+]
